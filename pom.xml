@@ -6,7 +6,7 @@
   <artifactId>DisputeMgmtCase</artifactId>
   <version>1.0.0-SNAPSHOT</version>
   <packaging>kjar</packaging>
-  <name>DisputeMgmtCase</name>
+  <name>OfferMgmtCase</name>
   <description></description>
   <dependencies>
     <dependency>
